@@ -1,3 +1,4 @@
+[![Latest Release](https://shields.io)](https://github.com)
 # 🎮 [RIDDLE RUN]
 A short, catchy one-sentence description of your game.
 
