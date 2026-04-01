@@ -1,4 +1,4 @@
-# 🎮 [Game Name]
+# 🎮 [RIDDLE RUN]
 A short, catchy one-sentence description of your game.
 
 ## 🚀 How to Play
